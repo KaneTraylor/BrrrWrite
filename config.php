@@ -1,7 +1,7 @@
 <?php
 // Database
 $host = "localhost";
-$username = "";
+$username = "example";
 $password = "";
 $dbname = "";
 
